@@ -6,7 +6,8 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
 
 . Ciencia de datos en dos grandes ramas:
 - 1) 45 min | TESTEAR HIPÓTESIS:
-  - Análisis univariante, multivariantes, causalidad: https://docs.google.com/presentation/d/1s8ZIkSjLnUF9LWIfRCihn8AiZG01CmK06cQSjo7Cr7g/edit#slide=id.g442eb61d9d_0_0
+  - [Introducción a análisis univariante, multivariantes, causalidad](https://docs.google.com/presentation/d/1s8ZIkSjLnUF9LWIfRCihn8AiZG01CmK06cQSjo7Cr7g/edit#slide=id.g442eb61d9d_0_0)
+  - Ejercicio análisis causal
 
 - 2) PREDECIR
   - 20 min | Introducción a árboles de decisión

@@ -14,7 +14,6 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
   - 10 min | [Ejercicio árboles](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_01_Arboles/01_A_%C3%81rboles_Decisi%C3%B3n_Clasificaci%C3%B3n_Resuelto.ipynb#scrollTo=1b1ZXTOs7oX6)
   - 30 min | [Introducción a redes neuronales](https://docs.google.com/presentation/d/1ChMqZxsxptvoHxZaOPfm8fa6bvQChbEbb8jm2IAP6X4/edit#slide=id.g442eb61d9d_0_0) 
   - 30 min | [Ejercicio redes](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_03_Intro_Redes_Neuronales/03B_Introducci%C3%B3n_reconocimiento_de_imagen_con_Redes_Neuronales.ipynb#scrollTo=ClrCwZk74E8u)
-  - 10 min | Técnicas, modelos y métodos de evaluación
 
 . Puesta en producción:
 - 10 min | [Introducción a Batch vs Stream](https://docs.google.com/presentation/d/17vBKWk-4bLMg45qLJHNYVsxdcpjf89-_wntFuNadeP8/edit?usp=sharing)

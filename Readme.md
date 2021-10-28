@@ -10,7 +10,7 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
 
 - 2) PREDECIR
   - 20 min | [Introducción a tipos de modelos](https://miro.medium.com/max/1400/1*05DngXXh_tH1RHF5UaXWjA.jpeg)
-  - 20 min | Introducción a árboles de decisión
+  - 20 min | [Introducción a árboles de decisión](https://docs.google.com/presentation/d/1hGUdQWUGSrhuiYKbVtlpMIMhh2aqCE7nnzbKl2Iq5l0/edit?usp=sharing)
   - 30 min | [Introducción a redes neuronales](https://docs.google.com/presentation/d/1ChMqZxsxptvoHxZaOPfm8fa6bvQChbEbb8jm2IAP6X4/edit#slide=id.g442eb61d9d_0_0) 
   - 30 min | [Ejercicio redes](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_03_Intro_Redes_Neuronales/03B_Introducci%C3%B3n_reconocimiento_de_imagen_con_Redes_Neuronales.ipynb#scrollTo=ClrCwZk74E8u)
   - 10 min | Técnicas, modelos y métodos de evaluación

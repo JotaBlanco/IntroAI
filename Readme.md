@@ -17,5 +17,5 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
   - 10 min | Técnicas, modelos y métodos de evaluación
 
 . Puesta en producción:
-- 10 min | [Introducción a Batch vs Stream](https://docs.google.com/presentation/d/1WEU0KrXCCp4vQGGVTG4tC2aqpdlOhRPTAgli-jNH9yo/edit#slide=id.gf8d24b245c_0_65)
-- 10 min | Chat con análisis de sentimiento: 
+- 10 min | [Introducción a Batch vs Stream](https://docs.google.com/presentation/d/17vBKWk-4bLMg45qLJHNYVsxdcpjf89-_wntFuNadeP8/edit?usp=sharing)
+- 10 min | Chat con análisis de sentimiento

@@ -2,7 +2,7 @@
 
 Charla introductoria a la ciencia de datos, inteligencia artificial y machine learning.
 
-. 15 min | [Introducción](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit?usp=sharing) sobre el docente y conceptos tipo: AI/ML/Deep Learning, etc.
+. 15 min | [Introducción](https://docs.google.com/presentation/d/1uvJ_lDsE_8uFstNALT68yGIJEZwRWVUWQ3yg543q96s/edit?usp=sharing) sobre el docente y conceptos tipo: AI/ML/Deep Learning, etc.
 
 . Ciencia de datos en dos grandes ramas:
 - 1) 45 min | TESTEAR HIPÓTESIS:

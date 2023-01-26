@@ -10,9 +10,7 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
     - [Notebook Fifa I](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb#scrollTo=1mzfw0mNukZs)
     - [Notebook Titanic](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
     - [Notebook Fifa II](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_B___Analisis_multivariante.ipynb#scrollTo=qdYDR8v2l5rh)
-
-    - 
-  - Ejercicio notebook [proceso analisis exploratorio](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb#scrollTo=AX1SgTxG-LZe)
+    - [Ejemplo Diagrama Causal Seguro de Vida](https://docs.google.com/presentation/d/1JpfJhkmusC2Er-jJ9zjCm8IpDF-FwXjRkV0WIRiadxo/edit#slide=id.g867c5d69fe_0_38)
 
 - 2) PREDECIR
   - 5 min | [Introducción a tipos de modelos](https://miro.medium.com/max/1400/1*05DngXXh_tH1RHF5UaXWjA.jpeg)

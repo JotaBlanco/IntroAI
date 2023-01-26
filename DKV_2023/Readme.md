@@ -27,7 +27,7 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
 
 - 10 min | DESCANSO
 
-- 60 min | Caso de uso CHURN
+- 60 min | [Caso práctico CHURN](https://docs.google.com/presentation/d/1svq4OAb_M8DCZSbNXAGqGRGrG2bp-ZUObqqbmq3XoWk/edit#slide=id.g442eb61d9d_0_0)
   - Presentación caso de uso
   - Roles del squad y enfoque general
   - Algoritmos basados en árboles

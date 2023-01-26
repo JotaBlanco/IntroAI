@@ -7,6 +7,8 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
 
 - 45 min | TESTEAR HIPÓTESIS:
   - [Introducción a análisis univariante, multivariantes, causalidad](https://docs.google.com/presentation/d/1s8ZIkSjLnUF9LWIfRCihn8AiZG01CmK06cQSjo7Cr7g/edit#slide=id.g442eb61d9d_0_0)
+    - [Notebook Fifa](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb#scrollTo=1mzfw0mNukZs)
+    - Notebook Titanic como ejemplo de análisis multivariante
   - Ejercicio análisis causal
   - Ejercicio notebook [proceso analisis exploratorio](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb#scrollTo=AX1SgTxG-LZe)
 

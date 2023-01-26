@@ -30,7 +30,7 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
 - 60 min | [Caso práctico CHURN](https://docs.google.com/presentation/d/1svq4OAb_M8DCZSbNXAGqGRGrG2bp-ZUObqqbmq3XoWk/edit#slide=id.g442eb61d9d_0_0)
   - Presentación caso de uso
   - Roles del squad y enfoque general
-  - Algoritmos basados en árboles. Ejemplo de [Gradient Boostin](https://docs.google.com/presentation/d/1jRg7Dk2y_2_fxnC_Jpj5aWcqgW9t1KAd7izdmWzv9Sk/edit#slide=id.gc8f3a31038_0_1192)
+  - Algoritmos basados en árboles. Ejemplo de [Gradient Boosting](https://docs.google.com/presentation/d/1jRg7Dk2y_2_fxnC_Jpj5aWcqgW9t1KAd7izdmWzv9Sk/edit#slide=id.gc8f3a31038_0_1192)
   - Ejercicio CHURN
   - Cuantificando beneficio
   - Mejoras futuras

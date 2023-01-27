@@ -27,13 +27,15 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
 
 - 10 min | DESCANSO
 
-- 60 min | [Caso práctico CHURN](https://docs.google.com/presentation/d/1svq4OAb_M8DCZSbNXAGqGRGrG2bp-ZUObqqbmq3XoWk/edit#slide=id.g442eb61d9d_0_0)
-  - Presentación caso de uso
-  - Roles del squad y enfoque general
-  - Algoritmos basados en árboles. Ejemplo de [Gradient Boosting](https://docs.google.com/presentation/d/1jRg7Dk2y_2_fxnC_Jpj5aWcqgW9t1KAd7izdmWzv9Sk/edit#slide=id.gc8f3a31038_0_1192)
-  - [Ejercicio CHURN](https://colab.research.google.com/github/JotaBlanco/IntroAI/blob/main/Notebooks/Ejercicio_CHURN.ipynb)
-  - Cuantificando beneficio
-  - Mejoras futuras
+- 50 min | [Caso práctico CHURN](https://docs.google.com/presentation/d/1svq4OAb_M8DCZSbNXAGqGRGrG2bp-ZUObqqbmq3XoWk/edit#slide=id.g442eb61d9d_0_0)
+  - 5 min | Presentación caso de uso
+  - 5 min | Roles del squad y enfoque general
+  - 10 min | Algoritmos basados en árboles. Ejemplo de [Gradient Boosting](https://docs.google.com/presentation/d/1jRg7Dk2y_2_fxnC_Jpj5aWcqgW9t1KAd7izdmWzv9Sk/edit#slide=id.gc8f3a31038_0_1192)
+  - 20 min | [Ejercicio CHURN](https://colab.research.google.com/github/JotaBlanco/IntroAI/blob/main/Notebooks/Ejercicio_CHURN.ipynb)
+  - 5 min | Cuantificando beneficio
+  - 5 min | Mejoras futuras
+
+- 10 min | Conclusión y feedback
   
   
  ## Sesión II

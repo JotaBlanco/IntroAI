@@ -31,7 +31,7 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
   - Presentación caso de uso
   - Roles del squad y enfoque general
   - Algoritmos basados en árboles. Ejemplo de [Gradient Boosting](https://docs.google.com/presentation/d/1jRg7Dk2y_2_fxnC_Jpj5aWcqgW9t1KAd7izdmWzv9Sk/edit#slide=id.gc8f3a31038_0_1192)
-  - Ejercicio CHURN
+  - [Ejercicio CHURN](https://colab.research.google.com/github/JotaBlanco/IntroAI/blob/main/Notebooks/Ejercicio_CHURN.ipynb)
   - Cuantificando beneficio
   - Mejoras futuras
   

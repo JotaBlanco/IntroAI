@@ -39,25 +39,47 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
   
   
  ## Sesión II
+ Charla introductoria a la ciencia de datos, inteligencia artificial y machine learning.
+
+- 15 min | [Introducción]
+  - Charla sobre la clase anterior
+  - Presentación del docente, la clase y los materiales
+
+- 30 min | Repaso de la sesión I
+  - Desmitifación de conceptos tipo: AI/ML/Deep Learning, etc.
+  - Cinecia de datos en dos grandes ramas: TESTEAR HIPÓTESIS VS PREDECIR
+  - TESTEAR HIPÓTESIS: análisis univariante, multivariantes, causalidad
+  - PREDECIR
+      - Qué es el Machine Learning?
+      - Qué tipos de modelos hay? [infgrafía con tipos de modelos](https://miro.medium.com/max/1400/1*05DngXXh_tH1RHF5UaXWjA.jpeg)
+      - Breve introducción a modelos lineales
+     
+- 30 min | Árboles de decisión
+  - Repaso árboles de decisión
+  - Repaso sesgo VS varianza
+  - Estado del arte con árboles de decisión: random forest, gradient boosting, XGBoost
+  
+- 15 min | Caso práctico (propensión a compra)
+  - Presentación caso de uso
+  - Roles del squad y enfoque general
+  - Ejercicio PROP COMPRA
+  - Cuantificando beneficio
+  
+- 10 min | Descanso 
  
-Por definir en concreto tras la sesión I. Ideas:
-- Repaso sesión I
-- Algoritmos de IA: Repaso de regresiones y árboles de decisión
-- XGBoost (con ejemplo)
-- Machine Learning vs. Deep Learning.
-- Deep Learning (Ejemplo de analisis de sentimiento de texto)
-- Caso de uso: propensión a compra
-- Revisando roles en un squad de ciencia de datos
-- Pasos en la modelización (limpieza, creación de variables, entrenamiento de modelos…)
-- Cómo cuantificar la mejora de un modelo
-- Cómo cuantificar el beneficio del proyecto
-- 30 min | [Introducción a redes neuronales](https://docs.google.com/presentation/d/1ChMqZxsxptvoHxZaOPfm8fa6bvQChbEbb8jm2IAP6X4/edit#slide=id.g442eb61d9d_0_0) 
-- 30 min | [Ejercicio redes](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_03_Intro_Redes_Neuronales/03B_Introducci%C3%B3n_reconocimiento_de_imagen_con_Redes_Neuronales.ipynb#scrollTo=ClrCwZk74E8u)
-- Puesta en producción:
-- 10 min | [Introducción a Batch vs Stream](https://docs.google.com/presentation/d/17vBKWk-4bLMg45qLJHNYVsxdcpjf89-_wntFuNadeP8/edit?usp=sharing)
-- 10 min | Chat con análisis de sentimiento
-. 10 min | [Despedida con lista de definiciones](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit?usp=sharing).
-. Puesta en producción:
-- 10 min | [Introducción a Batch vs Stream](https://docs.google.com/presentation/d/17vBKWk-4bLMg45qLJHNYVsxdcpjf89-_wntFuNadeP8/edit?usp=sharing)
-- 10 min | Chat con análisis de sentimiento
-. 10 min | [Despedida con lista de definiciones](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit?usp=sharing).
+- 45 mins | Deep Learning:
+  - [Introducción a redes neuronales](https://docs.google.com/presentation/d/1ChMqZxsxptvoHxZaOPfm8fa6bvQChbEbb8jm2IAP6X4/edit#slide=id.g442eb61d9d_0_0) 
+  - Machine Learning vs. Deep Learning. Casos de uso.
+  - Chat con análisis de sentimiento
+  - Chat con análisis de sentimiento y filtro de insultos
+  - Estado del arte: huggingface
+  - Estado del arte: GPT3
+
+- 15 min | Puesta en producción
+  - [Introducción a Batch vs Stream](https://docs.google.com/presentation/d/17vBKWk-4bLMg45qLJHNYVsxdcpjf89-_wntFuNadeP8/edit?usp=sharing)
+  - Lado menos glamuroso de la ciencia de datos
+  - [Despedida con lista de definiciones](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit?usp=sharing).
+
+
+- 15 min | Repaso y preguntas
+

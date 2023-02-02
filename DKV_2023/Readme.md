@@ -51,14 +51,15 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
   - [TESTEAR HIPÓTESIS: análisis univariante, multivariantes, causalidad](https://docs.google.com/presentation/d/1s8ZIkSjLnUF9LWIfRCihn8AiZG01CmK06cQSjo7Cr7g/edit#slide=id.g442eb61d9d_0_0)
     - Correlación
     - Cofounder: ejemplo orange 
-  - PREDECIR
+  - PREDECIR [Introducción](https://docs.google.com/presentation/d/14i8jEbpsYALkpLyZvagTzFqAp63GFHYCQCLrvsBUnp0/edit#slide=id.g442eb61d9d_0_0)
       - Qué es el Machine Learning?
       - Qué tipos de modelos hay? [infgrafía con tipos de modelos](https://miro.medium.com/max/1400/1*05DngXXh_tH1RHF5UaXWjA.jpeg)
-      - Breve introducción a modelos lineales
+      - Breve recordatorio de los modelos lineales
+      - 
      
 - 30 min | Árboles de decisión
-  - Repaso árboles de decisión
-  - Repaso sesgo VS varianza
+  - [REPASO Introducción a árboles de decisión 1](https://docs.google.com/presentation/d/16tnAAaiT6mrelG8zRg26crXAChWmzjOG2NyA0oyh4X0/edit#slide=id.gba74a3d8cd_0_0), 
+  - [REPASO sesgo VS varianza ](https://docs.google.com/presentation/d/1hGUdQWUGSrhuiYKbVtlpMIMhh2aqCE7nnzbKl2Iq5l0/edit?usp=sharing)
   - Estado del arte con árboles de decisión: random forest, gradient boosting, XGBoost
   
 - 15 min | Caso práctico (propensión a compra)

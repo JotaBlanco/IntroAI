@@ -55,12 +55,11 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
       - Qué es el Machine Learning?
       - Qué tipos de modelos hay? [infgrafía con tipos de modelos](https://miro.medium.com/max/1400/1*05DngXXh_tH1RHF5UaXWjA.jpeg)
       - Breve recordatorio de los modelos lineales
-      - 
      
 - 30 min | Árboles de decisión
   - [REPASO Introducción a árboles de decisión 1](https://docs.google.com/presentation/d/16tnAAaiT6mrelG8zRg26crXAChWmzjOG2NyA0oyh4X0/edit#slide=id.gba74a3d8cd_0_0), 
   - [REPASO sesgo VS varianza ](https://docs.google.com/presentation/d/1hGUdQWUGSrhuiYKbVtlpMIMhh2aqCE7nnzbKl2Iq5l0/edit?usp=sharing)
-  - Estado del arte con árboles de decisión: random forest, gradient boosting, XGBoost
+  - [Estado del arte con árboles de decisión](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit#slide=id.gcc4a4af0fa_0_809): random forest, gradient boosting, XGBoost
   
 - 15 min | Caso práctico (propensión a compra)
   - Presentación caso de uso

@@ -75,13 +75,13 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
   - Chat con análisis de sentimiento
   - Chat con análisis de sentimiento y filtro de insultos
   - Estado del arte: huggingface
-  - Estado del arte: GPT3
+  - Estado del arte: [GPT3](https://docs.google.com/presentation/d/1eLPoY8wmKXo2Y-gLlaN6Sldgoyd-g3LoMDvtK83MPxA/edit#slide=id.g1c80226c62c_0_183)
 
 - 15 min | Puesta en producción
   - [Introducción a Batch vs Stream](https://docs.google.com/presentation/d/17vBKWk-4bLMg45qLJHNYVsxdcpjf89-_wntFuNadeP8/edit?usp=sharing)
   - Lado menos glamuroso de la ciencia de datos
-  - [Despedida con lista de definiciones](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit?usp=sharing).
+  
+  
+- 15 min | [Despedida con lista de definiciones. Preguntas.](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit?usp=sharing).
 
-
-- 15 min | Repaso y preguntas
 

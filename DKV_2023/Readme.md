@@ -48,7 +48,7 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
 - 30 min | Repaso de la sesión I
   - Desmitifación de conceptos tipo: AI/ML/Deep Learning, etc.
   - Cinecia de datos en dos grandes ramas: TESTEAR HIPÓTESIS VS PREDECIR
-  - TESTEAR HIPÓTESIS: análisis univariante, multivariantes, causalidad
+  - [TESTEAR HIPÓTESIS: análisis univariante, multivariantes, causalidad](https://docs.google.com/presentation/d/1s8ZIkSjLnUF9LWIfRCihn8AiZG01CmK06cQSjo7Cr7g/edit#slide=id.g442eb61d9d_0_0)
   - PREDECIR
       - Qué es el Machine Learning?
       - Qué tipos de modelos hay? [infgrafía con tipos de modelos](https://miro.medium.com/max/1400/1*05DngXXh_tH1RHF5UaXWjA.jpeg)

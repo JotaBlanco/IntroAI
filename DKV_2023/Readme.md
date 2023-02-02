@@ -18,8 +18,7 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
     - [Ejemplo Diagrama Causal Seguro de Vida](https://docs.google.com/presentation/d/1JpfJhkmusC2Er-jJ9zjCm8IpDF-FwXjRkV0WIRiadxo/edit#slide=id.g867c5d69fe_0_38)
 
 - 50 min | PREDECIR (con árboles)
-    - 10 min | [Introducción](https://docs.google.com/presentation/d/14i8jEbpsYALkpLyZvagTzFqAp63GFHYCQCLrvsBUnp0/edit#slide=id.g442eb61d9d_0_0)
-      - Qué es el Machine Learning?
+    - 10 min | [Qué es el Machine Learning?](https://docs.google.com/presentation/d/14i8jEbpsYALkpLyZvagTzFqAp63GFHYCQCLrvsBUnp0/edit#slide=id.g442eb61d9d_0_0)
       - Qué tipos de modelos hay? [infgrafía con tipos de modelos](https://miro.medium.com/max/1400/1*05DngXXh_tH1RHF5UaXWjA.jpeg)
       - Breve introducción a modelos lineales
     - 30 min | [Introducción a árboles de decisión 1](https://docs.google.com/presentation/d/16tnAAaiT6mrelG8zRg26crXAChWmzjOG2NyA0oyh4X0/edit#slide=id.gba74a3d8cd_0_0), [Introducción a árboles de decisión 2](https://docs.google.com/presentation/d/1hGUdQWUGSrhuiYKbVtlpMIMhh2aqCE7nnzbKl2Iq5l0/edit?usp=sharing)

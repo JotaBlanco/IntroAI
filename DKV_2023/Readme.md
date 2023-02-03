@@ -60,21 +60,16 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
   - [REPASO Introducción a árboles de decisión 1](https://docs.google.com/presentation/d/16tnAAaiT6mrelG8zRg26crXAChWmzjOG2NyA0oyh4X0/edit#slide=id.gba74a3d8cd_0_0), 
   - [REPASO sesgo VS varianza ](https://docs.google.com/presentation/d/1hGUdQWUGSrhuiYKbVtlpMIMhh2aqCE7nnzbKl2Iq5l0/edit?usp=sharing)
   - [Estado del arte con árboles de decisión](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit#slide=id.gcc4a4af0fa_0_809): random forest, gradient boosting, XGBoost
-  
-- 15 min | Caso práctico (propensión a compra)
-  - Presentación caso de uso
-  - Roles del squad y enfoque general
-  - Ejercicio PROP COMPRA
-  - Cuantificando beneficio
  
-- 45 mins | Deep Learning:
+- 1h | Deep Learning (+descanso):
   - 30 mins | [Introducción a redes neuronales](https://docs.google.com/presentation/d/1ChMqZxsxptvoHxZaOPfm8fa6bvQChbEbb8jm2IAP6X4/edit#slide=id.g442eb61d9d_0_0)
   - 15 mins | DESCANSO
   - 15 mins | [Entrenamiento Red Neuronal](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_03_Intro_Redes_Neuronales/03A_Introducci%C3%B3n_Redes_Neuronales.ipynb)
-  - NLP:
-    - 15 min | [Cómo convertir texto en números](https://colab.research.google.com/drive/17lkFkVf3ibKBvsOdyKWKrjni2HcS-dEc?authuser=1)
-    - 15 min | Estado del arte: [HuggingFace](https://huggingface.co/). [Probando HuggingFace](https://colab.research.google.com/drive/1DLDlTVxPO_dM98ndQVKUqgPdQDcNScXF?authuser=1&usp=drive_open)
-    - 15 min | Estado del arte: [GPT3](https://docs.google.com/presentation/d/1eLPoY8wmKXo2Y-gLlaN6Sldgoyd-g3LoMDvtK83MPxA/edit#slide=id.g1c80226c62c_0_183)
+
+- 45 min | NLP:
+  - 15 min | [Cómo convertir texto en números](https://colab.research.google.com/drive/17lkFkVf3ibKBvsOdyKWKrjni2HcS-dEc?authuser=1)
+  - 15 min | Estado del arte: [HuggingFace](https://huggingface.co/). [Probando HuggingFace](https://colab.research.google.com/drive/1DLDlTVxPO_dM98ndQVKUqgPdQDcNScXF?authuser=1&usp=drive_open)
+  - 15 min | Estado del arte: [GPT3](https://docs.google.com/presentation/d/1eLPoY8wmKXo2Y-gLlaN6Sldgoyd-g3LoMDvtK83MPxA/edit#slide=id.g1c80226c62c_0_183)
 
 - 15 min | Puesta en producción
   - [Introducción a Batch vs Stream](https://docs.google.com/presentation/d/17vBKWk-4bLMg45qLJHNYVsxdcpjf89-_wntFuNadeP8/edit?usp=sharing)

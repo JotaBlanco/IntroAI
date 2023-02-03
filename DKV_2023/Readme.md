@@ -81,6 +81,5 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
   - Lado menos glamuroso de la ciencia de datos
   - Ejemplo Análisis de chat
   
-- 15 min | [Despedida con lista de definiciones. Preguntas.](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit?usp=sharing).
-
+- 15 min | [Despedida con lista de definiciones. Preguntas](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit?usp=sharing)
 

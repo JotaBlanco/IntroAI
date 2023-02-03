@@ -41,7 +41,7 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
  ## Sesión II
  Charla introductoria a la ciencia de datos, inteligencia artificial y machine learning.
 
-- 15 min | [Introducción]
+- 15 min | [Introducción](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit#slide=id.g442eb61d9d_0_0)
   - Charla sobre la clase anterior
   - Presentación del docente, la clase y los materiales
 

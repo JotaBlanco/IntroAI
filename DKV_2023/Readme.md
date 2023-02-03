@@ -46,7 +46,6 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
   - Presentación del docente, la clase y los materiales
 
 - 30 min | Repaso de la sesión I
-  - Desmitifación de conceptos tipo: AI/ML/Deep Learning, etc.
   - Cinecia de datos en dos grandes ramas: TESTEAR HIPÓTESIS VS PREDECIR
   - [TESTEAR HIPÓTESIS: análisis univariante, multivariantes, causalidad](https://docs.google.com/presentation/d/1s8ZIkSjLnUF9LWIfRCihn8AiZG01CmK06cQSjo7Cr7g/edit#slide=id.g442eb61d9d_0_0)
     - Correlación
@@ -55,11 +54,10 @@ Charla introductoria a la ciencia de datos, inteligencia artificial y machine le
       - Qué es el Machine Learning?
       - Qué tipos de modelos hay? [infgrafía con tipos de modelos](https://miro.medium.com/max/1400/1*05DngXXh_tH1RHF5UaXWjA.jpeg)
       - Breve recordatorio de los modelos lineales
-     
-- 30 min | Árboles de decisión
-  - [REPASO Introducción a árboles de decisión 1](https://docs.google.com/presentation/d/16tnAAaiT6mrelG8zRg26crXAChWmzjOG2NyA0oyh4X0/edit#slide=id.gba74a3d8cd_0_0), 
-  - [REPASO sesgo VS varianza ](https://docs.google.com/presentation/d/1hGUdQWUGSrhuiYKbVtlpMIMhh2aqCE7nnzbKl2Iq5l0/edit?usp=sharing)
-  - [Estado del arte con árboles de decisión](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit#slide=id.gcc4a4af0fa_0_809): random forest, gradient boosting, XGBoost
+      - Breve recordatorio Árboles de decisión
+        - [Introducción a árboles de decisión 1](https://docs.google.com/presentation/d/16tnAAaiT6mrelG8zRg26crXAChWmzjOG2NyA0oyh4X0/edit#slide=id.gba74a3d8cd_0_0), 
+        - [Sesgo VS varianza ](https://docs.google.com/presentation/d/1hGUdQWUGSrhuiYKbVtlpMIMhh2aqCE7nnzbKl2Iq5l0/edit?usp=sharing)
+        - [Estado del arte con árboles de decisión](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit#slide=id.gcc4a4af0fa_0_809): random forest, gradient boosting, XGBoost
  
 - 1h | Deep Learning (+descanso):
   - 30 mins | [Introducción a redes neuronales](https://docs.google.com/presentation/d/1ChMqZxsxptvoHxZaOPfm8fa6bvQChbEbb8jm2IAP6X4/edit#slide=id.g442eb61d9d_0_0)

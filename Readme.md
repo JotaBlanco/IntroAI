@@ -1,4 +1,6 @@
-Charla introductoria a la ciencia de datos, inteligencia artificial y machine learning.
+Charlas introductorias a la ciencia de datos, inteligencia artificial y machine learning para empresas. 
+
+Ejemplo:
 
 - 15 min | [Introducción](https://docs.google.com/presentation/d/11zFuGc5Tqa5Vmo8fn8Q88nvYnseEZ3G4FRIaP5ykFFs/edit?usp=sharing)
   - Presentación del docente, la clase y los materiales

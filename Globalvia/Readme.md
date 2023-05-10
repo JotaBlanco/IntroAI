@@ -7,11 +7,12 @@ Charlas introductorias a la ciencia de datos, inteligencia artificial y machine 
 Ejemplo:
 - 10 min | [Introducción](https://docs.google.com/presentation/d/14i8jEbpsYALkpLyZvagTzFqAp63GFHYCQCLrvsBUnp0/edit#slide=id.g442eb61d9d_0_0)
     
-- 20 min | TESTEAR HIPÓTESIS:
+- 20-30 min | TESTEAR HIPÓTESIS:
   - [Introducción a análisis univariante, multivariantes, causalidad](https://docs.google.com/presentation/d/1s8ZIkSjLnUF9LWIfRCihn8AiZG01CmK06cQSjo7Cr7g/edit#slide=id.g442eb61d9d_0_0)
-    - [Notebook Fifa I](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb#scrollTo=1mzfw0mNukZs)
     - [Notebook Titanic](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
+    - [Notebook Titanic II](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_B___Analisis_multivariante.ipynb#scrollTo=qdYDR8v2l5rh)
     
+- 30 mins | PREDECIR | MACHINE LEARNING:
     - Qué es el Machine Learning?
     - Qué tipos de modelos hay? [infgrafía con tipos de modelos](https://miro.medium.com/max/1400/1*05DngXXh_tH1RHF5UaXWjA.jpeg)
     - Breve introducción a modelos lineales
